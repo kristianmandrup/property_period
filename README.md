@@ -21,15 +21,6 @@ gem 'origin-selectable_ext'
 gem 'timespan'
 ```
 
-Usage in specs:
-
-```ruby
-require 'mongoid'
-require 'timespan'
-
-# now use...
-```ruby
-
 In your model:
 
 ```ruby
